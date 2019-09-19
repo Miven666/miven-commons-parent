@@ -6,7 +6,7 @@
 
     <groupId>miven.java</groupId>
     <artifactId>miven-commons-parent</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <modules>
         <module>miven-commons-dependencies</module>
         <module>miven-common</module>
